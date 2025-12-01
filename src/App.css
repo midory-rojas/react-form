@@ -1,0 +1,11 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+
+body {
+    background-color: rgb(209, 231, 209);
+    font-family: sans-serif;
+}
+
+img {
+    width:20%; 
+    padding: 20px;
+}
